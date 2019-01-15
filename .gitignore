@@ -1,0 +1,7 @@
+# Trained model files
+*.npz
+
+__pycache__/
+venv/
+.idea/
+
